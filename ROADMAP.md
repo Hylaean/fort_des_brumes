@@ -23,6 +23,7 @@ Une flèche **→** signale un point qui attend une décision du chef de projet.
 Trois essais courts, chacun répond à une question avant qu'on y passe du temps.
 
 - [x] Moteur choisi : Godot 4 — [ADR-0001](technique/adr/0001-moteur-godot-4.md)
+- [x] Langage : C# — [ADR-0002](technique/adr/0002-langage-csharp.md)
 - [ ] **Essai moteur** — « Le sol, c'est de la lave » en arène circulaire : sauter de bloc en
       bloc, la lave tue, un bloc mobile, compteur de trois tours ; clavier et manette
 - [ ] **Essai assets** — un croquis (Double Mine) → modèle 3D → Blender → rig → Godot

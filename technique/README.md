@@ -13,6 +13,7 @@ l'ancien passe au statut « remplacé ».
 | N° | Décision | Statut |
 |---|---|---|
 | [0001](adr/0001-moteur-godot-4.md) | Moteur de jeu : Godot 4 | accepté |
+| [0002](adr/0002-langage-csharp.md) | Langage de script : C# | accepté |
 
 ## À décider
 

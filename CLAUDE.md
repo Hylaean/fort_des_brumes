@@ -8,7 +8,7 @@ Dossier de conception d'un **jeu vidéo d'action à salles** (*action room*) en 
 le joueur progresse étage par étage dans une prison-forteresse circulaire, salle par salle et
 épreuve par épreuve.
 
-**Le moteur est choisi — Godot 4, voir `technique/adr/0001-moteur-godot-4.md` — mais le projet
+**Le moteur et le langage sont choisis — Godot 4 en C#, voir `technique/adr/` — mais le projet
 Godot n'existe pas encore.** Il n'y a ni `project.godot`, ni build, ni tests, ni lint : le dépôt ne
 contient que du Markdown et des images. Les seules commandes utiles sont celles de git.
 `ROADMAP.md` liste les jalons : cocher un point quand il est livré, ne pas en ajouter sans
@@ -32,7 +32,7 @@ Claude est de **mettre en forme et de conserver** ses idées, jamais de concevoi
 
 Les choix techniques sont consignés en ADR numérotés dans `technique/adr/` (contexte, décision,
 options écartées, conséquences), indexés dans `technique/README.md`. Un nouveau choix structurant
-— langage, stockage des assets, chaîne 3D, voix — donne un nouvel ADR, jamais une note glissée
+— stockage des assets, chaîne 3D, voix — donne un nouvel ADR, jamais une note glissée
 dans une fiche concept. Un ADR accepté ne se réécrit pas ; on le remplace.
 
 ## Langue

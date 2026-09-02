@@ -24,8 +24,7 @@ Contraintes qui pèsent sur le choix :
 **Godot 4**, dans sa dernière version stable 4.x au moment de démarrer le prototype. La version
 exacte sera figée dans `project.godot` et notée ici.
 
-Langage principal : **GDScript**, lisible par le chef de projet et intégré à l'éditeur. Le C# n'est
-pas exclu pour un besoin précis ; ce serait une décision séparée.
+Le langage de script fait l'objet de l'[ADR-0002](0002-langage-csharp.md) : **C#**.
 
 ## Options considérées
 
