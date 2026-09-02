@@ -11,6 +11,8 @@ le joueur progresse étage par étage dans une prison-forteresse circulaire, sal
 **Le moteur est choisi — Godot 4, voir `technique/adr/0001-moteur-godot-4.md` — mais le projet
 Godot n'existe pas encore.** Il n'y a ni `project.godot`, ni build, ni tests, ni lint : le dépôt ne
 contient que du Markdown et des images. Les seules commandes utiles sont celles de git.
+`ROADMAP.md` liste les jalons : cocher un point quand il est livré, ne pas en ajouter sans
+l'accord du chef de projet.
 
 ## Règle principale : la paternité des idées
 
