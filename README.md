@@ -75,6 +75,7 @@ dans [propositions](concept/propositions/README.md).
 | [`concept/`](concept/README.md) | Le dossier de conception : univers, identité visuelle, personnages, niveaux, épreuves, galerie d'images, questions ouvertes |
 | [`technique/`](technique/README.md) | Les décisions techniques, en ADR — moteur : [Godot 4](technique/adr/0001-moteur-godot-4.md), langage : [C#](technique/adr/0002-langage-csharp.md) |
 | [`ROADMAP.md`](ROADMAP.md) | La feuille de route, par jalons |
+| [`teaser/`](teaser/README.md) | Script et prompts du teaser vidéo, et [où le générer](teaser/outils.md) |
 
 Le code du jeu viendra dans son propre dossier quand le premier prototype démarrera.
 

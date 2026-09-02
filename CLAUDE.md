@@ -56,8 +56,9 @@ Beaucoup de décisions sont **encore ouvertes**. Le dossier assume cet état plu
 
 ## Organisation du dossier
 
-`concept/` est le dossier de travail ; la racine ne contient que le `README.md` de présentation
-publique du dépôt GitHub.
+`concept/` est le dossier de conception. À la racine : `README.md` (présentation publique),
+`ROADMAP.md`, `technique/` (décisions techniques) et `teaser/` (script, prompts et outils du teaser
+vidéo — matière de production, pas du canon).
 
 L'arborescence fonctionne comme un graphe de documents à trois niveaux :
 
