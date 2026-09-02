@@ -8,10 +8,9 @@ Dossier de conception d'un **jeu vidéo d'action à salles** (*action room*) en 
 le joueur progresse étage par étage dans une prison-forteresse circulaire, salle par salle et
 épreuve par épreuve.
 
-**Il n'y a pas encore de code, de moteur, de build, de tests ni de lint.** Le dépôt ne contient
-aujourd'hui que du Markdown et des images de référence. Ne pas chercher de `package.json`, de
-projet Unity/Godot ou de suite de tests : ils n'existent pas encore. Les seules commandes utiles
-sont celles de git.
+**Le moteur est choisi — Godot 4, voir `technique/adr/0001-moteur-godot-4.md` — mais le projet
+Godot n'existe pas encore.** Il n'y a ni `project.godot`, ni build, ni tests, ni lint : le dépôt ne
+contient que du Markdown et des images. Les seules commandes utiles sont celles de git.
 
 ## Règle principale : la paternité des idées
 
@@ -26,6 +25,13 @@ Claude est de **mettre en forme et de conserver** ses idées, jamais de concevoi
   conventionnel. La formulation d'origine, même naïve ou étrange, est le matériau à préserver.
 - Proposer est possible, mais toujours explicitement comme une proposition à valider, jamais
   écrit directement dans les fiches comme du canon.
+
+## Décisions techniques
+
+Les choix techniques sont consignés en ADR numérotés dans `technique/adr/` (contexte, décision,
+options écartées, conséquences), indexés dans `technique/README.md`. Un nouveau choix structurant
+— langage, stockage des assets, chaîne 3D, voix — donne un nouvel ADR, jamais une note glissée
+dans une fiche concept. Un ADR accepté ne se réécrit pas ; on le remplace.
 
 ## Langue
 
