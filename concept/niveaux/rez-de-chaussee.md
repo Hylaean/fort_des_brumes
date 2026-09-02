@@ -2,9 +2,9 @@
 
 ## Plans générés
 
-![Plan généré du rez-de-chaussée, variante 1](../images/niveaux/rez-de-chaussee-v1.png)
+![Plan généré du rez-de-chaussée, variante 1](../images/niveaux/rez-de-chaussee-v1.jpeg)
 
-![Plan généré du rez-de-chaussée, variante 2](../images/niveaux/rez-de-chaussee-v2.png)
+![Plan généré du rez-de-chaussée, variante 2](../images/niveaux/rez-de-chaussee-v2.jpeg)
 
 ## Intention
 

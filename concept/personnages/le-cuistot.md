@@ -1,8 +1,8 @@
 # Le Cuistot
 
-![Première fiche générée du personnage de cuisine](../images/personnages/le-cuistot-v1.png)
+![Première fiche générée du personnage de cuisine](../images/personnages/le-cuistot-v1.jpeg)
 
-![Seconde fiche générée du personnage de cuisine](../images/personnages/le-cuistot-v2.png)
+![Seconde fiche générée du personnage de cuisine](../images/personnages/le-cuistot-v2.jpeg)
 
 Les titres « Le Cuisio » et « Le Garnacuisinier » visibles dans ces essais sont des variantes générées. Le nom canonique retenu après correction est **Le Cuistot**.
 

@@ -1,6 +1,6 @@
 # Identité visuelle
 
-![Écran-titre généré pour Fort des Brumes](images/identite/ecran-titre.png)
+![Écran-titre généré pour Fort des Brumes](images/identite/ecran-titre.jpeg)
 
 ## Emblème
 

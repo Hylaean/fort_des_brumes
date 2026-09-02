@@ -1,6 +1,6 @@
 # Univers et forteresse
 
-![Fort des Brumes entre glacier et volcan](images/forteresse/fort-glace-feu-v2.png)
+![Fort des Brumes entre glacier et volcan](images/forteresse/fort-glace-feu-v2.jpeg)
 
 ## Concept central
 
@@ -32,6 +32,6 @@ Le fort adopte une organisation circulaire : une couronne de pièces et de coulo
 
 Les deux propositions générées sont conservées, la seconde mettant davantage l'accent sur l'implantation en crête.
 
-![Première exploration du Fort des Brumes](images/forteresse/fort-glace-feu-v1.png)
+![Première exploration du Fort des Brumes](images/forteresse/fort-glace-feu-v1.jpeg)
 
-![Seconde exploration du Fort des Brumes](images/forteresse/fort-glace-feu-v2.png)
+![Seconde exploration du Fort des Brumes](images/forteresse/fort-glace-feu-v2.jpeg)

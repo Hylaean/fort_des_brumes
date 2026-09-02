@@ -1,6 +1,6 @@
 # Le Gardien des clés
 
-![Fiche générée du Gardien des clés](../images/personnages/gardien-des-cles.png)
+![Fiche générée du Gardien des clés](../images/personnages/gardien-des-cles.jpeg)
 
 ## Rôle
 

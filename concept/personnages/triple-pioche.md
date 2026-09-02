@@ -1,6 +1,6 @@
 # Triple Pioche
 
-![Fiche générée de Triple Pioche](../images/personnages/triple-pioche.png)
+![Fiche générée de Triple Pioche](../images/personnages/triple-pioche.jpeg)
 
 ### Croquis source
 

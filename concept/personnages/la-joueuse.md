@@ -1,6 +1,6 @@
 # La Joueuse
 
-![Fiche générée de la Joueuse](../images/personnages/la-joueuse.png)
+![Fiche générée de la Joueuse](../images/personnages/la-joueuse.jpeg)
 
 ### Croquis source
 

@@ -2,15 +2,15 @@
 
 ## Plans générés
 
-![Galerie des personnages, variante 1](../images/niveaux/galerie-personnages-v1.png)
+![Galerie des personnages, variante 1](../images/niveaux/galerie-personnages-v1.jpeg)
 
-![Galerie des personnages, variante 2](../images/niveaux/galerie-personnages-v2.png)
+![Galerie des personnages, variante 2](../images/niveaux/galerie-personnages-v2.jpeg)
 
-![Niveau 2, variante 1](../images/niveaux/niveau-02-v1.png)
+![Niveau 2, variante 1](../images/niveaux/niveau-02-v1.jpeg)
 
-![Niveau 2, variante 2](../images/niveaux/niveau-02-v2.png)
+![Niveau 2, variante 2](../images/niveaux/niveau-02-v2.jpeg)
 
-![Niveau 2, variante 3](../images/niveaux/niveau-02-v3.png)
+![Niveau 2, variante 3](../images/niveaux/niveau-02-v3.jpeg)
 
 ## Fonction
 

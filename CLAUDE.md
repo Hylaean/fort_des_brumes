@@ -81,7 +81,7 @@ c'est la référence à consulter, et elle ne se réécrit pas.
 - Niveaux préfixés et numérotés sur deux chiffres : `niveau-02-galerie.md`.
 - Images rangées **par sujet** dans `images/<section>/`, croquis et rendus dans le même dossier :
   un dessin manuscrit porte le suffixe `-croquis`, les variantes `-v1`, `-v2`… —
-  `images/niveaux/plan-circulaire-3-croquis.jpeg`, `images/epreuves/le-sol-c-est-de-la-lave-v2.png`.
+  `images/niveaux/plan-circulaire-3-croquis.jpeg`, `images/epreuves/le-sol-c-est-de-la-lave-v2.jpeg`.
 - Liens entre documents toujours **relatifs** (`../images/epreuves/le-sol-c-est-de-la-lave-croquis.jpeg`).
 - Une fiche qui possède un croquis l'intègre en haut, juste après le titre :
   `![Croquis de l'épreuve](../images/epreuves/le-sol-c-est-de-la-lave-croquis.jpeg)`.

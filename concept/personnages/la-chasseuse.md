@@ -1,6 +1,6 @@
 # La Chasseuse
 
-![Fiche générée de la Chasseuse](../images/personnages/la-chasseuse.png)
+![Fiche générée de la Chasseuse](../images/personnages/la-chasseuse.jpeg)
 
 ## Origine
 

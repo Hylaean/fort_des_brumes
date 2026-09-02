@@ -1,6 +1,6 @@
 # Sharkboy
 
-![Fiche générée de Sharkboy](../images/personnages/sharkboy.png)
+![Fiche générée de Sharkboy](../images/personnages/sharkboy.jpeg)
 
 ### Croquis source
 

@@ -1,6 +1,6 @@
 # Double Mine
 
-![Fiche générée de Double Mine](../images/personnages/double-mine.png)
+![Fiche générée de Double Mine](../images/personnages/double-mine.jpeg)
 
 ### Croquis source
 

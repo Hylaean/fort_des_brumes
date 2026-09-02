@@ -1,6 +1,6 @@
 # Lava Girl
 
-![Fiche générée de Lava Girl](../images/personnages/lava-girl.png)
+![Fiche générée de Lava Girl](../images/personnages/lava-girl.jpeg)
 
 ### Croquis source
 

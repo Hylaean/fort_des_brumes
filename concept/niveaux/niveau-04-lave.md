@@ -1,6 +1,6 @@
 # Niveau 4 — le sol, c'est de la lave
 
-![Première proposition générée du niveau 4](../images/niveaux/niveau-04-lave-v1.png)
+![Première proposition générée du niveau 4](../images/niveaux/niveau-04-lave-v1.jpeg)
 
 ## Fonction
 

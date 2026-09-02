@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="concept/images/identite/ecran-titre.png" alt="Écran-titre de Fort des Brumes" width="720">
+  <img src="concept/images/identite/ecran-titre.jpeg" alt="Écran-titre de Fort des Brumes" width="720">
 </p>
 
 # Fort des Brumes
@@ -14,7 +14,7 @@ Projet familial, en cours. Le concept est mené par un jeune chef de projet ; to
 ici est son idée, mise en forme. Rien n'est figé.
 
 <p align="center">
-  <img src="concept/images/forteresse/fort-glace-feu-v2.png" alt="Le fort entre glacier et volcan" width="560">
+  <img src="concept/images/forteresse/fort-glace-feu-v2.jpeg" alt="Le fort entre glacier et volcan" width="560">
 </p>
 
 ## Du croquis à la fiche
@@ -25,7 +25,7 @@ fiche qui en est sortie, côte à côte.
 <table align="center">
   <tr>
     <td align="center"><img src="concept/images/personnages/double-mine-croquis.jpeg" alt="Croquis de Double Mine" width="300"></td>
-    <td align="center"><img src="concept/images/personnages/double-mine.png" alt="Fiche de Double Mine" width="300"></td>
+    <td align="center"><img src="concept/images/personnages/double-mine.jpeg" alt="Fiche de Double Mine" width="300"></td>
   </tr>
   <tr>
     <td align="center"><em>Double Mine, le croquis</em></td>
@@ -41,9 +41,9 @@ glace, Lava Girl venue du volcan, le Cuistot et sa main-louche…
 
 <table align="center">
   <tr>
-    <td align="center"><img src="concept/images/personnages/pere-nendaz.png" alt="Père Nendaz" width="240"></td>
-    <td align="center"><img src="concept/images/personnages/la-joueuse.png" alt="La Joueuse" width="240"></td>
-    <td align="center"><img src="concept/images/personnages/sharkboy.png" alt="Sharkboy" width="240"></td>
+    <td align="center"><img src="concept/images/personnages/pere-nendaz.jpeg" alt="Père Nendaz" width="240"></td>
+    <td align="center"><img src="concept/images/personnages/la-joueuse.jpeg" alt="La Joueuse" width="240"></td>
+    <td align="center"><img src="concept/images/personnages/sharkboy.jpeg" alt="Sharkboy" width="240"></td>
   </tr>
   <tr>
     <td align="center"><em>Père Nendaz</em></td>
@@ -62,7 +62,7 @@ bancals, explosifs ou mobiles — pour faire trois tours complets autour de la t
 Difficulté : 10/10.
 
 <p align="center">
-  <img src="concept/images/epreuves/le-sol-c-est-de-la-lave-v5.png" alt="Carte concept de l'épreuve Le sol, c'est de la lave" width="420">
+  <img src="concept/images/epreuves/le-sol-c-est-de-la-lave-v5.jpeg" alt="Carte concept de l'épreuve Le sol, c'est de la lave" width="420">
 </p>
 
 Toutes les épreuves : [épreuves](concept/epreuves/README.md). Les idées pas encore validées sont

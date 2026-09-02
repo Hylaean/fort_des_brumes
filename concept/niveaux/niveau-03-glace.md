@@ -4,9 +4,9 @@
 
 ## Plans générés
 
-![Étage de glace, variante 1](../images/niveaux/niveau-03-glace-v1.png)
+![Étage de glace, variante 1](../images/niveaux/niveau-03-glace-v1.jpeg)
 
-![Étage de glace, variante 2](../images/niveaux/niveau-03-glace-v2.png)
+![Étage de glace, variante 2](../images/niveaux/niveau-03-glace-v2.jpeg)
 
 ## Intention
 
