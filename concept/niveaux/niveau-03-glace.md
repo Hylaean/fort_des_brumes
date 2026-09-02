@@ -4,9 +4,9 @@
 
 ## Plans générés
 
-![Étage de glace, variante 1](../generated/niveaux/niveau-03-glace-v1.png)
+![Étage de glace, variante 1](../images/niveaux/niveau-03-glace-v1.png)
 
-![Étage de glace, variante 2](../generated/niveaux/niveau-03-glace-v2.png)
+![Étage de glace, variante 2](../images/niveaux/niveau-03-glace-v2.png)
 
 ## Intention
 
@@ -26,4 +26,4 @@ Les noms proposés uniquement dans les images générées sont maintenant lisibl
 
 ### Croquis source
 
-![Croquis circulaire marqué 3](../references/07-plan-circulaire-3.jpeg)
+![Croquis circulaire marqué 3](../images/niveaux/plan-circulaire-3-croquis.jpeg)

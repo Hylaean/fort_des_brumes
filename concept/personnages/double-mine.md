@@ -1,10 +1,10 @@
 # Double Mine
 
-![Fiche générée de Double Mine](../generated/personnages/double-mine.png)
+![Fiche générée de Double Mine](../images/personnages/double-mine.png)
 
 ### Croquis source
 
-![Croquis de Double Mine](../references/02-double-mine.jpeg)
+![Croquis de Double Mine](../images/personnages/double-mine-croquis.jpeg)
 
 ## Rôle
 

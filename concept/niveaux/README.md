@@ -1,6 +1,6 @@
 # Structure et niveaux
 
-Les dix plans et variantes générés sont réunis dans la [galerie des niveaux](../generated/README.md#plans-et-niveaux).
+Les dix plans et variantes générés sont réunis dans la [galerie des niveaux](../images/README.md#plans-et-niveaux).
 
 ## Structure commune
 

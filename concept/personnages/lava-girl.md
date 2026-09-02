@@ -1,10 +1,10 @@
 # Lava Girl
 
-![Fiche générée de Lava Girl](../generated/personnages/lava-girl.png)
+![Fiche générée de Lava Girl](../images/personnages/lava-girl.png)
 
 ### Croquis source
 
-![Croquis de Lava Girl](../references/04-lava-girl.jpeg)
+![Croquis de Lava Girl](../images/personnages/lava-girl-croquis.jpeg)
 
 ## Origine et rôle
 

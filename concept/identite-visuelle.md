@@ -1,6 +1,6 @@
 # Identité visuelle
 
-![Écran-titre généré pour Fort des Brumes](generated/identite/ecran-titre.png)
+![Écran-titre généré pour Fort des Brumes](images/identite/ecran-titre.png)
 
 ## Emblème
 
@@ -38,4 +38,4 @@ Les personnages et les salles doivent être présentés sous forme de **cartes c
 
 ## Galerie complète
 
-Toutes les fiches, cartes et variantes générées sont regroupées dans la [galerie des éléments graphiques](generated/README.md).
+Toutes les fiches, cartes et variantes générées sont regroupées dans la [galerie des éléments graphiques](images/README.md).

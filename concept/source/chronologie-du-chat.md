@@ -4,7 +4,7 @@ Cette chronologie conserve l'ordre des 31 tours récupérés dans la conversatio
 
 ## 1. Maquette et monde
 
-La première demande part d'une maquette du Fort des Brumes. Le fort doit devenir réaliste et impressionnant, posé sur une sorte de volcan-glacier : un versant de glacier extrêmement haut, un versant de lave réelle, beaucoup de couleur, de fumée, de vapeur et de brume produites par leur rencontre. Les deux photographies de maquette restent des pièces jointes source ; les deux interprétations générées sont archivées dans la [galerie](../generated/README.md#forteresse).
+La première demande part d'une maquette du Fort des Brumes. Le fort doit devenir réaliste et impressionnant, posé sur une sorte de volcan-glacier : un versant de glacier extrêmement haut, un versant de lave réelle, beaucoup de couleur, de fumée, de vapeur et de brume produites par leur rencontre. Les deux photographies de maquette restent des pièces jointes source ; les deux interprétations générées sont archivées dans la [galerie](../images/README.md#forteresse).
 
 ## 2. Correction géologique
 
@@ -64,7 +64,7 @@ Le deuxième étage est surtout une galerie des personnages, avec trois épreuve
 
 ## 14. Validation par image
 
-Un bref « Yeah » accompagné d'une image valide ou fait avancer la proposition visuelle. Les variantes concernées sont désormais conservées dans la [galerie des niveaux](../generated/README.md#plans-et-niveaux).
+Un bref « Yeah » accompagné d'une image valide ou fait avancer la proposition visuelle. Les variantes concernées sont désormais conservées dans la [galerie des niveaux](../images/README.md#plans-et-niveaux).
 
 ## 15. Confirmation du niveau 2
 
@@ -132,4 +132,4 @@ La proposition s'améliore, mais la carte doit être plus longue et reprendre le
 
 ## 31. Demande d'archive d'images
 
-La dernière demande du chat était de réunir toutes les images de la discussion dans un ZIP. Aucun ZIP n'était présent dans l'historique, mais l'import local réunit maintenant les **29 éléments générés** dans [generated](../generated/README.md) et dix croquis sources dans [references](../references/README.md).
+La dernière demande du chat était de réunir toutes les images de la discussion dans un ZIP. Aucun ZIP n'était présent dans l'historique, mais l'import local réunit maintenant les 29 visuels rendus et les 18 croquis et photos sources dans la [galerie d'images](../images/README.md), rangés par sujet.

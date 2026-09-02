@@ -15,8 +15,7 @@ Ce dossier rassemble les idées exprimées dans la conversation **« Fort des br
 - [Épreuves](epreuves/README.md)
 - [Décisions et questions ouvertes](decisions-et-questions.md)
 - [Chronologie des idées importées](source/chronologie-du-chat.md)
-- [Galerie des 29 éléments graphiques générés](generated/README.md)
-- [Croquis de référence](references/README.md)
+- [Galerie d'images](images/README.md) — croquis, maquette et visuels rendus, par sujet
 - [Propositions à valider](propositions/README.md) — idées non canon, à trier
 
 ## Règles de lecture

@@ -2,15 +2,15 @@
 
 ## Plans générés
 
-![Galerie des personnages, variante 1](../generated/niveaux/galerie-personnages-v1.png)
+![Galerie des personnages, variante 1](../images/niveaux/galerie-personnages-v1.png)
 
-![Galerie des personnages, variante 2](../generated/niveaux/galerie-personnages-v2.png)
+![Galerie des personnages, variante 2](../images/niveaux/galerie-personnages-v2.png)
 
-![Niveau 2, variante 1](../generated/niveaux/niveau-02-v1.png)
+![Niveau 2, variante 1](../images/niveaux/niveau-02-v1.png)
 
-![Niveau 2, variante 2](../generated/niveaux/niveau-02-v2.png)
+![Niveau 2, variante 2](../images/niveaux/niveau-02-v2.png)
 
-![Niveau 2, variante 3](../generated/niveaux/niveau-02-v3.png)
+![Niveau 2, variante 3](../images/niveaux/niveau-02-v3.png)
 
 ## Fonction
 
@@ -40,4 +40,4 @@ La première proposition visuelle des salles ne correspondait pas à l'intention
 
 ### Croquis source
 
-![Croquis circulaire marqué 2](../references/08-plan-circulaire-2.jpeg)
+![Croquis circulaire marqué 2](../images/niveaux/plan-circulaire-2-croquis.jpeg)

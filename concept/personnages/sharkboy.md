@@ -1,10 +1,10 @@
 # Sharkboy
 
-![Fiche générée de Sharkboy](../generated/personnages/sharkboy.png)
+![Fiche générée de Sharkboy](../images/personnages/sharkboy.png)
 
 ### Croquis source
 
-![Croquis de Sharkboy](../references/05-sharkboy.jpeg)
+![Croquis de Sharkboy](../images/personnages/sharkboy-croquis.jpeg)
 
 ## Origine et rôle
 

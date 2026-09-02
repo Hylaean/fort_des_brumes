@@ -1,6 +1,6 @@
 # Épreuves
 
-Les cinq variantes générées de l'épreuve de lave sont regroupées dans sa [fiche détaillée](le-sol-c-est-de-la-lave.md) et dans la [galerie graphique](../generated/README.md#épreuve-le-sol-cest-de-la-lave).
+Les cinq variantes générées de l'épreuve de lave sont regroupées dans sa [fiche détaillée](le-sol-c-est-de-la-lave.md) et dans la [galerie graphique](../images/README.md#épreuves).
 
 ## Épreuves nommées
 

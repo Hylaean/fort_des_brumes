@@ -1,6 +1,6 @@
 # Père Nendaz
 
-![Fiche générée de Père Nendaz](../generated/personnages/pere-nendaz.png)
+![Fiche générée de Père Nendaz](../images/personnages/pere-nendaz.png)
 
 ## Rôle
 

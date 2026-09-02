@@ -1,6 +1,6 @@
 # Le Prisonnier fou
 
-![Fiche générée du Prisonnier fou](../generated/personnages/prisonnier-fou.png)
+![Fiche générée du Prisonnier fou](../images/personnages/prisonnier-fou.png)
 
 ## Rôle et histoire
 

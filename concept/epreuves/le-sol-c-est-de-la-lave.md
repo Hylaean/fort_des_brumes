@@ -4,27 +4,27 @@
 
 ### Variante 1
 
-![Carte concept de l'épreuve, variante 1](../generated/epreuves/le-sol-c-est-de-la-lave-v1.png)
+![Carte concept de l'épreuve, variante 1](../images/epreuves/le-sol-c-est-de-la-lave-v1.png)
 
 ### Variante 2
 
-![Carte concept de l'épreuve, variante 2](../generated/epreuves/le-sol-c-est-de-la-lave-v2.png)
+![Carte concept de l'épreuve, variante 2](../images/epreuves/le-sol-c-est-de-la-lave-v2.png)
 
 ### Variante 3
 
-![Carte concept de l'épreuve, variante 3](../generated/epreuves/le-sol-c-est-de-la-lave-v3.png)
+![Carte concept de l'épreuve, variante 3](../images/epreuves/le-sol-c-est-de-la-lave-v3.png)
 
 ### Variante 4
 
-![Carte concept de l'épreuve, variante 4](../generated/epreuves/le-sol-c-est-de-la-lave-v4.png)
+![Carte concept de l'épreuve, variante 4](../images/epreuves/le-sol-c-est-de-la-lave-v4.png)
 
 ### Variante 5
 
-![Carte concept de l'épreuve, variante 5](../generated/epreuves/le-sol-c-est-de-la-lave-v5.png)
+![Carte concept de l'épreuve, variante 5](../images/epreuves/le-sol-c-est-de-la-lave-v5.png)
 
 ### Croquis source
 
-![Croquis de l'épreuve](../references/01-sol-lave.jpeg)
+![Croquis de l'épreuve](../images/epreuves/le-sol-c-est-de-la-lave-croquis.jpeg)
 
 ## Concept
 

@@ -1,6 +1,6 @@
 # Personnages
 
-Les onze fiches générées — dont deux variantes historiques du personnage de cuisine — sont visibles dans la [galerie graphique](../generated/README.md#personnages). Chaque dossier individuel présente son visuel avec les idées correspondantes.
+Les onze fiches générées — dont deux variantes historiques du personnage de cuisine — sont visibles dans la [galerie graphique](../images/README.md#personnages). Chaque dossier individuel présente son visuel avec les idées correspondantes.
 
 ## Habitants et figures du fort
 

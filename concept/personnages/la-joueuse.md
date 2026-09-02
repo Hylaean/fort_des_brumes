@@ -1,10 +1,10 @@
 # La Joueuse
 
-![Fiche générée de la Joueuse](../generated/personnages/la-joueuse.png)
+![Fiche générée de la Joueuse](../images/personnages/la-joueuse.png)
 
 ### Croquis source
 
-![Croquis de la Joueuse](../references/06-la-joueuse.jpeg)
+![Croquis de la Joueuse](../images/personnages/la-joueuse-croquis.jpeg)
 
 ## Rôle et histoire
 

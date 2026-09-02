@@ -54,7 +54,7 @@ publique du dépôt GitHub.
 L'arborescence fonctionne comme un graphe de documents à trois niveaux :
 
 1. `concept/README.md` — sommaire général et règles de lecture.
-2. Un `README.md` par section (`personnages/`, `niveaux/`, `epreuves/`, `references/`) qui sert
+2. Un `README.md` par section (`personnages/`, `niveaux/`, `epreuves/`, `images/`) qui sert
    à la fois d'**index** et de porteur des **faits transversaux** à la section — relations entre
    personnages, principes de conception des cartes, structure commune des étages. Ces faits
    transversaux ne sont pas dupliqués dans les fiches individuelles.
@@ -71,10 +71,12 @@ c'est la référence à consulter, et elle ne se réécrit pas.
 
 - Noms en kebab-case, **sans accents** : `pere-nendaz.md`, `tempete-de-glace.md`.
 - Niveaux préfixés et numérotés sur deux chiffres : `niveau-02-galerie.md`.
-- Croquis préfixés d'un numéro d'ordre : `references/07-plan-circulaire-3.jpeg`.
-- Liens entre documents toujours **relatifs** (`../references/01-sol-lave.jpeg`).
+- Images rangées **par sujet** dans `images/<section>/`, croquis et rendus dans le même dossier :
+  un dessin manuscrit porte le suffixe `-croquis`, les variantes `-v1`, `-v2`… —
+  `images/niveaux/plan-circulaire-3-croquis.jpeg`, `images/epreuves/le-sol-c-est-de-la-lave-v2.png`.
+- Liens entre documents toujours **relatifs** (`../images/epreuves/le-sol-c-est-de-la-lave-croquis.jpeg`).
 - Une fiche qui possède un croquis l'intègre en haut, juste après le titre :
-  `![Croquis de l'épreuve](../references/01-sol-lave.jpeg)`.
+  `![Croquis de l'épreuve](../images/epreuves/le-sol-c-est-de-la-lave-croquis.jpeg)`.
 
 ## Gabarits des fiches
 
@@ -102,8 +104,9 @@ comme modèles de référence.
 
 ## Images
 
-`concept/references/` contient les dix-huit croquis de travail fournis dans la conversation
-d'origine. `concept/generated/` archive séparément les vingt-neuf visuels générés pendant le chat,
-classés par forteresse, identité, personnages, niveaux et épreuves ; son `README.md` sert de galerie
-et conserve l'ordre des variantes. Le dépôt est public : vérifier la provenance avant d'ajouter de
-nouvelles images.
+`concept/images/` regroupe par sujet (forteresse, identité, personnages, niveaux, épreuves) les
+dix-huit croquis et photos fournis dans la conversation d'origine et les vingt-neuf visuels rendus
+pendant le chat ; son `README.md` sert d'index et conserve l'ordre des variantes. Les rendus peuvent
+montrer des noms remplacés depuis (« Le Cuisio » pour le Cuistot, des salles renommées) : ils sont
+un historique visuel, pas du canon — le texte des fiches prime. Le dépôt est public : vérifier la
+provenance avant d'ajouter de nouvelles images.

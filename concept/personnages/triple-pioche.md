@@ -1,10 +1,10 @@
 # Triple Pioche
 
-![Fiche générée de Triple Pioche](../generated/personnages/triple-pioche.png)
+![Fiche générée de Triple Pioche](../images/personnages/triple-pioche.png)
 
 ### Croquis source
 
-![Croquis de Triple Pioche](../references/03-triple-pioche.jpeg)
+![Croquis de Triple Pioche](../images/personnages/triple-pioche-croquis.jpeg)
 
 ## Rôle
 
