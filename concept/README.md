@@ -16,6 +16,7 @@ Ce dossier rassemble les idées exprimées dans la conversation **« Fort des br
 - [Décisions et questions ouvertes](decisions-et-questions.md)
 - [Chronologie des idées importées](source/chronologie-du-chat.md)
 - [Croquis de référence](references/README.md)
+- [Propositions à valider](propositions/README.md) — idées non canon, à trier
 
 ## Règles de lecture
 
