@@ -1,5 +1,9 @@
 # Double Mine
 
+![Fiche générée de Double Mine](../generated/personnages/double-mine.png)
+
+### Croquis source
+
 ![Croquis de Double Mine](../references/02-double-mine.jpeg)
 
 ## Rôle
@@ -22,4 +26,3 @@ Double Mine est le second allié des personnages qui affrontent le fort. Il appo
 ## Relations
 
 Le chat dit qu'il est « grand ami avec Double Mine », ce qui semble être une auto-référence involontaire. Le contexte suggère qu'il est grand ami avec Triple Pioche ; ce point reste à confirmer.
-

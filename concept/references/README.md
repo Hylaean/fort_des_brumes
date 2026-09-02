@@ -1,6 +1,6 @@
 # Croquis de référence récupérés
 
-Dix images jointes étaient directement accessibles lors de l'import. Elles ont été copiées ici pour ne pas dépendre de fichiers temporaires.
+Dix-huit images jointes ont été récupérées depuis la conversation. Elles ont été copiées ici pour ne pas dépendre de fichiers temporaires.
 
 | Fichier | Contenu visible |
 |---|---|
@@ -14,6 +14,13 @@ Dix images jointes étaient directement accessibles lors de l'import. Elles ont 
 | [08-plan-circulaire-2.jpeg](08-plan-circulaire-2.jpeg) | Plan circulaire marqué « 2 », douze secteurs périphériques et noyau central 12. |
 | [09-plan-circulaire-a.jpeg](09-plan-circulaire-a.jpeg) | Variante de plan circulaire numéroté avec noyau central 12. |
 | [10-plan-circulaire-b.jpeg](10-plan-circulaire-b.jpeg) | Variante de plan circulaire numéroté avec noyau central subdivisé. |
+| [11-maquette-fort-a.jpeg](11-maquette-fort-a.jpeg) | Première vue de la maquette physique du Fort des Brumes. |
+| [12-maquette-fort-b.jpeg](12-maquette-fort-b.jpeg) | Deuxième vue de la maquette physique du Fort des Brumes. |
+| [13-ecran-titre.jpeg](13-ecran-titre.jpeg) | Croquis de l'écran-titre avec le nom du jeu, le rhinocéros et le logo. |
+| [14-pere-nendaz.jpeg](14-pere-nendaz.jpeg) | Croquis de référence de Père Nendaz. |
+| [15-la-chasseuse.jpeg](15-la-chasseuse.jpeg) | Croquis de référence de la Chasseuse. |
+| [16-gardien-des-cles.jpeg](16-gardien-des-cles.jpeg) | Croquis de référence du Gardien des clés. |
+| [17-prisonnier-fou.jpeg](17-prisonnier-fou.jpeg) | Croquis de référence du Prisonnier fou. |
+| [18-le-cuistot.jpeg](18-le-cuistot.jpeg) | Croquis de référence du personnage devenu le Cuistot. |
 
-Les images générées par l'assistant dans la conversation n'étaient pas exposées comme fichiers récupérables dans l'historique importé. Les demandes de correction qui leur faisaient référence sont toutefois consignées dans les documents concept.
-
+Les références ci-dessus sont les croquis fournis dans la conversation. Les **29 images produites à partir de ces idées**, variantes comprises, sont archivées séparément dans la [galerie des éléments graphiques générés](../generated/README.md).

@@ -15,6 +15,7 @@ Ce dossier rassemble les idées exprimées dans la conversation **« Fort des br
 - [Épreuves](epreuves/README.md)
 - [Décisions et questions ouvertes](decisions-et-questions.md)
 - [Chronologie des idées importées](source/chronologie-du-chat.md)
+- [Galerie des 29 éléments graphiques générés](generated/README.md)
 - [Croquis de référence](references/README.md)
 - [Propositions à valider](propositions/README.md) — idées non canon, à trier
 
@@ -24,4 +25,4 @@ Ce dossier rassemble les idées exprimées dans la conversation **« Fort des br
 - Une idée remplacée reste conservée dans la section **Historique des révisions** du document concerné.
 - Les corrections évidentes de transcription sont normalisées. Les cas incertains sont signalés dans [Décisions et questions ouvertes](decisions-et-questions.md).
 - Les descriptions restent des concepts de travail : elles n'ajoutent pas de scénario ou de mécanique qui n'aurait pas été exprimé dans la conversation.
-
+- Les variantes graphiques restent toutes archivées, même lorsqu'une correction ultérieure les a remplacées.

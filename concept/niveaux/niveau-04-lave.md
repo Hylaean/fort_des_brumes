@@ -1,5 +1,7 @@
 # Niveau 4 — le sol, c'est de la lave
 
+![Première proposition générée du niveau 4](../generated/niveaux/niveau-04-lave-v1.png)
+
 ## Fonction
 
 Le niveau 4 est organisé autour d'une seule grande épreuve : [Le sol, c'est de la lave](../epreuves/le-sol-c-est-de-la-lave.md).
@@ -22,3 +24,4 @@ L'espace circulaire est envahi par la lave et traversé grâce à différents bl
 
 La version actuelle retient les corrections 2 et 3.
 
+Les cinq cartes concept générées pour l'épreuve sont conservées dans [Le sol, c'est de la lave](../epreuves/le-sol-c-est-de-la-lave.md).

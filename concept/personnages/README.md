@@ -1,5 +1,7 @@
 # Personnages
 
+Les onze fiches générées — dont deux variantes historiques du personnage de cuisine — sont visibles dans la [galerie graphique](../generated/README.md#personnages). Chaque dossier individuel présente son visuel avec les idées correspondantes.
+
 ## Habitants et figures du fort
 
 - [Père Nendaz](pere-nendaz.md)
@@ -23,4 +25,3 @@
 - Tous deux sont ennemis des personnages du fort ; Double Mine est particulièrement opposé au Père Nendaz.
 - Le Prisonnier fou déteste profondément le Gardien des clés.
 - Sharkboy et Lava Girl forment un duo conceptuel : l'un appartient à la glace et à l'eau, l'autre au volcan et au magma.
-

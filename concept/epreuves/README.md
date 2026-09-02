@@ -1,5 +1,7 @@
 # Épreuves
 
+Les cinq variantes générées de l'épreuve de lave sont regroupées dans sa [fiche détaillée](le-sol-c-est-de-la-lave.md) et dans la [galerie graphique](../generated/README.md#épreuve-le-sol-cest-de-la-lave).
+
 ## Épreuves nommées
 
 - [Magma vs Glace](magma-vs-glace.md)
@@ -12,4 +14,3 @@ Les trois premières sont associées au niveau 2. La quatrième constitue l'uniq
 ## Principe de présentation
 
 Chaque épreuve doit disposer d'une carte concept détaillée dans le même esprit que les cartes de personnages : une scène forte, un titre visible, les règles essentielles, les dangers et la difficulté. Une carte concept ne doit pas être remplacée par un simple plan vu du dessus.
-

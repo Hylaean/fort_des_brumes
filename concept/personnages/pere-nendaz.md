@@ -1,5 +1,7 @@
 # Père Nendaz
 
+![Fiche générée de Père Nendaz](../generated/personnages/pere-nendaz.png)
+
 ## Rôle
 
 Figure importante et menaçante du Fort des Brumes, associée à l'alpinisme et à la montagne.
@@ -26,4 +28,3 @@ Figure importante et menaçante du Fort des Brumes, associée à l'alpinisme et 
 ## Nom
 
 L'orthographe **Nendaz** est retenue parce que le chat précise qu'il s'écrit comme la station de ski suisse.
-

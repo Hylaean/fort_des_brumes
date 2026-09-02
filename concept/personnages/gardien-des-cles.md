@@ -1,5 +1,7 @@
 # Le Gardien des clés
 
+![Fiche générée du Gardien des clés](../generated/personnages/gardien-des-cles.png)
+
 ## Rôle
 
 Il garde les clés du Fort des Brumes et les porte toujours à la main.
@@ -29,4 +31,3 @@ Une chambre organisée autour d'un plateau ou présentoir rempli de clés.
 ## Point ouvert
 
 Le chat emploie ensuite « gardienne des clés ». Le genre canonique du personnage reste à décider.
-

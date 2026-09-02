@@ -1,5 +1,11 @@
 # Le Cuistot
 
+![Première fiche générée du personnage de cuisine](../generated/personnages/le-cuisio-v1.png)
+
+![Seconde fiche générée du personnage de cuisine](../generated/personnages/le-garnacuisinier-v2.png)
+
+Les titres « Le Cuisio » et « Le Garnacuisinier » visibles dans ces essais sont des variantes générées. Le nom canonique retenu après correction est **Le Cuistot**.
+
 ## Rôle
 
 Le Cuistot prépare dans sa cuisine les plats particulièrement dégoûtants du fort.
@@ -29,4 +35,3 @@ La version corrigée doit avoir **moins de taches**. Le Cuistot essaie de prendr
 ## Salle
 
 Une cuisine reconnaissable, plutôt qu'une pièce générique.
-

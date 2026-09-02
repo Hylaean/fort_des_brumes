@@ -1,5 +1,17 @@
 # Niveau 2 — galerie des personnages
 
+## Plans générés
+
+![Galerie des personnages, variante 1](../generated/niveaux/galerie-personnages-v1.png)
+
+![Galerie des personnages, variante 2](../generated/niveaux/galerie-personnages-v2.png)
+
+![Niveau 2, variante 1](../generated/niveaux/niveau-02-v1.png)
+
+![Niveau 2, variante 2](../generated/niveaux/niveau-02-v2.png)
+
+![Niveau 2, variante 3](../generated/niveaux/niveau-02-v3.png)
+
 ## Fonction
 
 Ce niveau est principalement la **galerie des personnages**. Il comporte leurs salles personnelles ainsi que trois épreuves.
@@ -26,5 +38,6 @@ La salle du Père Nendaz ne se trouve pas à cet étage et doit être supprimée
 
 La première proposition visuelle des salles ne correspondait pas à l'intention. Les décors ci-dessus remplacent les pièces génériques initiales.
 
-![Croquis circulaire marqué 2](../references/08-plan-circulaire-2.jpeg)
+### Croquis source
 
+![Croquis circulaire marqué 2](../references/08-plan-circulaire-2.jpeg)

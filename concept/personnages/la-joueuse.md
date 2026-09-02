@@ -1,5 +1,9 @@
 # La Joueuse
 
+![Fiche générée de la Joueuse](../generated/personnages/la-joueuse.png)
+
+### Croquis source
+
 ![Croquis de la Joueuse](../references/06-la-joueuse.jpeg)
 
 ## Rôle et histoire
@@ -24,4 +28,3 @@ La Joueuse vit dans le **Casino des Brumes**. Elle y a bâti sa fortune, tandis 
 ## Salle
 
 Sa salle doit prendre la forme d'un casino, et non d'une chambre ordinaire.
-

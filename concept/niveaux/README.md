@@ -1,5 +1,7 @@
 # Structure et niveaux
 
+Les dix plans et variantes générés sont réunis dans la [galerie des niveaux](../generated/README.md#plans-et-niveaux).
+
 ## Structure commune
 
 Le fort est organisé autour d'une **tour centrale**, entourée d'un anneau de salles et de couloirs. Les croquis montrent une structure circulaire découpée en secteurs numérotés, avec un noyau central lui aussi numéroté ou subdivisé.
@@ -21,4 +23,3 @@ La désignation « niveau 3 » est déduite de l'ordre de la conversation et doi
 - Utiliser un quadrillage et des numéros pour faciliter le repérage.
 - Ne pas recopier automatiquement les pièces d'un étage sur le suivant.
 - Éviter les doublons de noms d'épreuves.
-

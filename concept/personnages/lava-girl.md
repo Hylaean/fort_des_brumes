@@ -1,5 +1,9 @@
 # Lava Girl
 
+![Fiche générée de Lava Girl](../generated/personnages/lava-girl.png)
+
+### Croquis source
+
 ![Croquis de Lava Girl](../references/04-lava-girl.jpeg)
 
 ## Origine et rôle
@@ -21,4 +25,3 @@ Lava Girl est le pendant volcanique de Sharkboy. Elle vivait dans le volcan avan
 ## Univers visuel
 
 Elle doit être présentée dans un environnement volcanique.
-

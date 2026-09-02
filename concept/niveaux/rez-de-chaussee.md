@@ -1,5 +1,11 @@
 # Rez-de-chaussée
 
+## Plans générés
+
+![Plan généré du rez-de-chaussée, variante 1](../generated/niveaux/rez-de-chaussee-v1.png)
+
+![Plan généré du rez-de-chaussée, variante 2](../generated/niveaux/rez-de-chaussee-v2.png)
+
 ## Intention
 
 Le rez-de-chaussée reprend le plan circulaire dessiné pour le Fort des Brumes. Sa carte doit être embellie, rendue lisible et complétée par des noms de pièces cohérents.
@@ -19,5 +25,4 @@ Deux rhinocéros patrouillent dans la salle du trésor.
 - Ajouter un quadrillage avec des chiffres.
 - Conserver la tour intérieure comme élément architectural majeur.
 - Faire apparaître clairement le cheminement entre les antichambres et le trésor.
-- Le plan source exact n'est pas disponible dans les pièces jointes récupérées ; ces consignes textuelles constituent donc la référence actuelle.
-
+- Les deux propositions générées sont archivées ci-dessus. Les consignes textuelles et les corrections les plus récentes restent la référence canonique.

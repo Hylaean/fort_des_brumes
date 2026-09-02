@@ -1,5 +1,7 @@
 # Le Prisonnier fou
 
+![Fiche générée du Prisonnier fou](../generated/personnages/prisonnier-fou.png)
+
 ## Rôle et histoire
 
 - Prisonnier matricule **numéro 1**.
@@ -24,4 +26,3 @@
 ## Salle
 
 Sa pièce doit être une véritable cellule de prison.
-

@@ -22,4 +22,5 @@ Tout le dossier concept se trouve dans [`concept/`](concept/README.md) :
 | [Épreuves](concept/epreuves/README.md) | Épreuves de glace et de magma |
 | [Décisions et questions ouvertes](concept/decisions-et-questions.md) | Points arbitrés et points à confirmer |
 | [Chronologie](concept/source/chronologie-du-chat.md) | Trace chronologique des idées d'origine |
+| [Galerie des visuels générés](concept/generated/README.md) | Les 29 images créées dans la conversation, variantes comprises |
 | [Croquis de référence](concept/references/README.md) | Dessins et images de travail |

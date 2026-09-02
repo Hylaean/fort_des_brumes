@@ -2,6 +2,12 @@
 
 > La numérotation « niveau 3 » est une déduction : la conversation parle du prochain étage après le niveau 2, puis nomme explicitement l'étage 4.
 
+## Plans générés
+
+![Étage de glace, variante 1](../generated/niveaux/niveau-03-glace-v1.png)
+
+![Étage de glace, variante 2](../generated/niveaux/niveau-03-glace-v2.png)
+
 ## Intention
 
 Cet étage doit reprendre la qualité et le style du meilleur plan antérieur, tout en proposant un contenu entièrement nouveau consacré à la glace.
@@ -16,7 +22,8 @@ Cet étage doit reprendre la qualité et le style du meilleur plan antérieur, t
 - Ne pas inclure la salle de la Joueuse.
 - Reprendre le langage graphique du plan apprécié, sans reprendre son contenu.
 
-Les nouveaux noms proposés uniquement dans les images générées du chat ne sont pas accessibles dans l'import et devront être recréés.
+Les noms proposés uniquement dans les images générées sont maintenant lisibles dans les deux variantes ci-dessus. Ils restent des propositions à valider.
+
+### Croquis source
 
 ![Croquis circulaire marqué 3](../references/07-plan-circulaire-3.jpeg)
-

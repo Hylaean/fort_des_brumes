@@ -1,5 +1,9 @@
 # Sharkboy
 
+![Fiche générée de Sharkboy](../generated/personnages/sharkboy.png)
+
+### Croquis source
+
 ![Croquis de Sharkboy](../references/05-sharkboy.jpeg)
 
 ## Origine et rôle
@@ -23,4 +27,3 @@ Sharkboy est un homme-requin pétrifié dans la glace il y a très longtemps. Il
 ## Univers visuel
 
 Il doit être montré dans un environnement de glace ou d'eau froide, en opposition directe avec Lava Girl.
-

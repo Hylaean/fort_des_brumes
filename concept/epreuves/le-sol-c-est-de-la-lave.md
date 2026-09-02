@@ -1,5 +1,29 @@
 # Le sol, c'est de la lave
 
+## Cartes concept générées
+
+### Variante 1
+
+![Carte concept de l'épreuve, variante 1](../generated/epreuves/le-sol-c-est-de-la-lave-v1.png)
+
+### Variante 2
+
+![Carte concept de l'épreuve, variante 2](../generated/epreuves/le-sol-c-est-de-la-lave-v2.png)
+
+### Variante 3
+
+![Carte concept de l'épreuve, variante 3](../generated/epreuves/le-sol-c-est-de-la-lave-v3.png)
+
+### Variante 4
+
+![Carte concept de l'épreuve, variante 4](../generated/epreuves/le-sol-c-est-de-la-lave-v4.png)
+
+### Variante 5
+
+![Carte concept de l'épreuve, variante 5](../generated/epreuves/le-sol-c-est-de-la-lave-v5.png)
+
+### Croquis source
+
 ![Croquis de l'épreuve](../references/01-sol-lave.jpeg)
 
 ## Concept
@@ -37,4 +61,3 @@ Des manettes sont placées à différents endroits. Elles modifient la position 
 ## Historique
 
 Une première version de l'étage prévoyait une vigie du Père Nendaz dans la tour. Les corrections ultérieures ont demandé une tour vide et un mur protecteur ; elles priment ici.
-

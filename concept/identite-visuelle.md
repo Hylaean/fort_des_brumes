@@ -1,5 +1,7 @@
 # Identité visuelle
 
+![Écran-titre généré pour Fort des Brumes](generated/identite/ecran-titre.png)
+
 ## Emblème
 
 L'emblème du Fort des Brumes est une **tête de rhinocéros casqué**. Il apparaît notamment au dos des vêtements du gardien des clés, du prisonnier fou et du cuistot.
@@ -13,7 +15,7 @@ Le rhinocéros peut aussi être représenté avec une expression énervée, nota
 - La typographie doit sembler écrite à la main, dans l'esprit d'un ancien film d'action.
 - Le premier logo créé pendant la conversation devait être placé en bas à droite.
 
-Le visuel du premier logo et les images générées pendant le chat ne sont pas exposés dans l'import. L'intention de placement et de style est néanmoins conservée ici.
+L'écran-titre généré pendant le chat est maintenant archivé ci-dessus. Il combine la tête de rhinocéros, le lettrage d'action et le fort partagé entre glace et lave.
 
 ## Style des cartes concept
 
@@ -34,3 +36,6 @@ Les personnages et les salles doivent être présentés sous forme de **cartes c
 - Réutiliser le langage visuel du meilleur plan précédent, mais pas nécessairement les mêmes pièces.
 - Éviter de répéter les mêmes noms d'épreuves sur plusieurs étages.
 
+## Galerie complète
+
+Toutes les fiches, cartes et variantes générées sont regroupées dans la [galerie des éléments graphiques](generated/README.md).

@@ -1,5 +1,7 @@
 # Univers et forteresse
 
+![Fort des Brumes entre glacier et volcan](generated/forteresse/fort-glace-feu-v2.png)
+
 ## Concept central
 
 Le Fort des Brumes est une **prison-forteresse imposante** située dans un monde imaginaire. Son environnement repose sur une opposition très visible entre la glace et le feu, traitée avec assez de réalisme pour que le paysage semble géologiquement crédible.
@@ -26,3 +28,10 @@ Le Fort des Brumes est une **prison-forteresse imposante** située dans un monde
 
 Le fort adopte une organisation circulaire : une couronne de pièces et de couloirs entoure une tour centrale. Les plans dessinés utilisent des secteurs numérotés autour d'un noyau central. Cette structure se répète d'étage en étage, avec un contenu différent selon le thème du niveau.
 
+## Explorations visuelles
+
+Les deux propositions générées sont conservées, la seconde mettant davantage l'accent sur l'implantation en crête.
+
+![Première exploration du Fort des Brumes](generated/forteresse/fort-glace-feu-v1.png)
+
+![Seconde exploration du Fort des Brumes](generated/forteresse/fort-glace-feu-v2.png)

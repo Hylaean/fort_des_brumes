@@ -102,7 +102,8 @@ comme modèles de référence.
 
 ## Images
 
-`concept/references/` contient dix croquis de travail récupérés de la conversation d'origine.
-Les images générées pendant le chat n'ont pas pu être récupérées ; les demandes de correction qui
-s'y rapportaient sont consignées dans les fiches. Le dépôt est public : vérifier la provenance
-avant d'ajouter de nouvelles images.
+`concept/references/` contient les dix-huit croquis de travail fournis dans la conversation
+d'origine. `concept/generated/` archive séparément les vingt-neuf visuels générés pendant le chat,
+classés par forteresse, identité, personnages, niveaux et épreuves ; son `README.md` sert de galerie
+et conserve l'ordre des variantes. Le dépôt est public : vérifier la provenance avant d'ajouter de
+nouvelles images.
